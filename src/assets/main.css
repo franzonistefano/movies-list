@@ -1,0 +1,44 @@
+@import './base.css';
+
+#app {
+  min-height: 100vh;
+  background-color: #FFFDFB;
+  padding: 5rem;
+}
+
+input[type=text]
+{
+  border-radius: 10px;
+  border-color: #831010;
+  font-size: 21px;
+  padding: 5px;
+  margin: 5px;
+  border-style: solid;
+}
+
+button {
+    font-size: 16px;
+    color: white;
+    background-color: #831010;
+    border-radius: 10px;
+    padding: 5px 20px;
+    border: none;
+    margin: 5px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+}
+
+svg {
+  width: 16px;
+  height: 16px;
+}
+
+button:hover {
+  opacity: 0.7;
+}
+
+button:disabled {
+  opacity: 0.7;
+  cursor:auto;
+}
