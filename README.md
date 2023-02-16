@@ -1,29 +1,32 @@
-# movies
+# Movies List
 
-This template should help get you started developing with Vue 3 in Vite.
+# **Table of Contents**
 
-## Recommended IDE Setup
+- [Technologies](#technologies)
+- [Guide](#guide)
+- [App Screen](#appScreen)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<a name="technologies"></a>
+# Technologies
 
-## Customize configuration
+> Note: this is a not responsive version
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- Vue
+- Javascript
+- Firestore
 
-## Project Setup
+<a name="guide"></a>
+# Guide
 
-```sh
+```
 npm install
+``` 
+
 ```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
+``` 
 
-### Compile and Minify for Production
+<a name="appScreen"></a>
+# App screen
 
-```sh
-npm run build
-```
+![Cattura](https://user-images.githubusercontent.com/15787839/219494375-510b8537-0271-42d5-ad30-1cdfb21375f6.PNG)
